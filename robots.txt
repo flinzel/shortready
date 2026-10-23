@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flinzel.github.io/shortready/sitemap.xml
